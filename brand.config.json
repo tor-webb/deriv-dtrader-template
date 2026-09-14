@@ -1,17 +1,17 @@
 {
-    "brand_name": "Trading Platform",
+    "brand_name": "Nanofx",
     "brand_logo": "brand/platform-logo.svg",
     "brand_logo_dark": "brand/platform-logo.svg",
-    "brand_domain": "deriv.com",
+    "brand_domain": "deriv-app-trader.vercel.app",
     "brand_hostname": {
         "staging": "staging.dtrader-template.pages.dev",
-        "production": "deriv-dtrader-ten.vercel.app"
+        "production": "deriv-app-trader.vercel.app"
     },
     "platform": {
-        "name": "Trading Platform",
-        "description": "A whole new trading experience on a powerful yet easy to use platform.",
+        "name": "Nanofx",
+        "description": "A powerful and easy-to-use trading experience.",
         "logo": "brand/platform-logo.svg",
-        "home_url": "https://home.deriv.com/dashboard",
+        "home_url": "https://deriv-app-trader.vercel.app/",
         "help_centre_url": "https://trade.deriv.com/help-centre"
     },
     "signup_url": {
@@ -20,7 +20,7 @@
     },
     "deposit_url": {
         "staging": "https://staging.dtrader-template.pages.dev/transfer",
-        "production": "https://deriv-dtrader-ten.vercel.app/transfer"
+        "production": "https://deriv-app-trader.vercel.app/transfer"
     },
     "auth": {
         "staging": "https://staging-auth.deriv.com",
@@ -30,7 +30,7 @@
             "account_manage"
         ],
         "oauth_redirect_uri_staging": "https://staging.dtrader-template.pages.dev",
-        "oauth_redirect_uri_production": "https://deriv-dtrader-ten.vercel.app",
+        "oauth_redirect_uri_production": "https://deriv-app-trader.vercel.app",
         "oauth_app_id": "337x8IVbWsDmK8uQ423wB",
         "oauth_client_id": "337x8IVbWsDmK8uQ423wB"
     },
@@ -47,8 +47,8 @@
         "production": "api.deriv.com"
     },
     "app_id": {
-        "staging": 16929,
-        "production": 16929
+        "staging": "340jQNXrItGcDvwd5kjEU",
+        "production": "340jQNXrItGcDvwd5kjEU"
     },
     "colors": {
         "primary": "#118e1c",
